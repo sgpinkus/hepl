@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "install": "node index.js"
+    "install": "node index.js install",
+    "prepare": "node index.js prepare"
   },
   "author": "",
   "license": "ISC"
